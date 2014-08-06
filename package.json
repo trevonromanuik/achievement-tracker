@@ -1,0 +1,17 @@
+{
+  "name": "achievement-tracker",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "async": "~0.9.0",
+    "express": "3.x",
+    "lodash": "~2.4.1",
+    "node-twitter-api": "^1.2.3",
+    "node-xboxapiv2": "https://github.com/trevonromanuik/node-xboxapiv2/tarball/master",
+    "request": "^2.40.0"
+  },
+  "description": "Achievement Tracker",
+  "main": "app.js"
+}
